@@ -18,7 +18,7 @@ For the second part of the project, I will be exploring multiple questions to un
 
 ## Table of Contents
 <li>Introduction</li>
-<li><a href="#wrangling">Data Wrangling</li>
+<li>Data Wrangling</li>
     <ol> 
     <li>General Properties</li>
     <li>Checking for errors and problems</li>
@@ -26,8 +26,7 @@ For the second part of the project, I will be exploring multiple questions to un
     <li>Final Dataset></li>
     <li>Statistics and Visuals </li>
     </ol>
-    <br>
-     
+    
 <li><a href="#eda">Exploratory Data Analysis</a></li>
     <ol>
     <li>Is Age a factor leading to not showing up to appointments?</li>
@@ -37,11 +36,10 @@ For the second part of the project, I will be exploring multiple questions to un
     <li>Is the number of missed appointments a ruling factor in no show?</li>
     <li>Overview</li>
     </ol>
-    <br>
+  
 <li>Feature Importance</li>
-<br>
+
 <li>Conclusion</li>
-</ul>
 
 ## Program Details
   - Libraries:
@@ -52,4 +50,4 @@ For the second part of the project, I will be exploring multiple questions to un
   - Python 3.6+
  
  ## Author
- I am, ANgi Ghanem, the sole author of this program.
+ I am, Angi Ghanem, the sole author of this program.
