@@ -31,7 +31,7 @@ For the second part of the project, I will be exploring multiple questions to un
 <li><a href="#eda">Exploratory Data Analysis</a></li>
     <ol>
     <li>Is Age a factor leading to not showing up to appointments?</li>
-    <li><Is Gender a factor leading to not showing up to appointments?</li>
+    <li>Is Gender a factor leading to not showing up to appointments?</li>
     <li>Does receiving an SMS or Scholarship decrease the no show ratio?</li>
     <li>Is the appointment's Day of the Week a ruling factor in no show?</li>
     <li>Is the number of missed appointments a ruling factor in no show?</li>
